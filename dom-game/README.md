@@ -1,5 +1,7 @@
 Note: The webpage is not responsive.
 
+I think github should have an option of creating webpage inside the folder with custom name. 
+
 GAME RULES:
 
 - The game has 2 players, playing in rounds
